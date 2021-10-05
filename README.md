@@ -1,7 +1,7 @@
 # FTC
-Code to control a FIRST Tech Challenge competition robot with an Andriod app. 
+Code to use an Android app to control a robot for FIRST Tech Challenge 2018. 
 
-Designed the program using Andriod Studio. 
+Designed the programs using Android Studio. 
 
 Used the source code from FTC official GitHub to: https://github.com/ftctechnh/ftc_app/wiki. 
 
